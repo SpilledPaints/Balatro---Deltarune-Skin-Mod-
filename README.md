@@ -1,6 +1,8 @@
 # Balatro - Deltarune Fun Gang Deck! (Face Cards + Ace)
 A Fun little Balatro Deltarune Skin for the Heart Suit!
 
+![deltarune-balatro-showcase](https://github.com/user-attachments/assets/5168d5ca-a76c-4909-934c-2b70874b79c5)
+
 Hiya Guys!
 
 Any Deltarune fans?? I've created some Deltarune face cards (+ Ace Card) to the game, complete with alternative High Contrast versions.

@@ -1,4 +1,4 @@
-# Balatro---Deltarune-Skin-Mod-
+# Balatro - Deltarune Fun Gang Deck! (Face Cards + Ace)
 A Fun little Balatro Deltarune Skin for the Heart Suit!
 
 Hiya Guys!
